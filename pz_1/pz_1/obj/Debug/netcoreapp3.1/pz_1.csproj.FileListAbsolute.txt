@@ -1,0 +1,14 @@
+C:\Users\rinaa\source\repos\pz_1\pz_1\obj\Debug\netcoreapp3.1\pz_1.csproj.AssemblyReference.cache
+C:\Users\rinaa\source\repos\pz_1\pz_1\obj\Debug\netcoreapp3.1\pz_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinaa\source\repos\pz_1\pz_1\obj\Debug\netcoreapp3.1\pz_1.AssemblyInfoInputs.cache
+C:\Users\rinaa\source\repos\pz_1\pz_1\obj\Debug\netcoreapp3.1\pz_1.AssemblyInfo.cs
+C:\Users\rinaa\source\repos\pz_1\pz_1\obj\Debug\netcoreapp3.1\pz_1.csproj.CoreCompileInputs.cache
+C:\Users\rinaa\source\repos\pz_1\pz_1\bin\Debug\netcoreapp3.1\pz_1.exe
+C:\Users\rinaa\source\repos\pz_1\pz_1\bin\Debug\netcoreapp3.1\pz_1.deps.json
+C:\Users\rinaa\source\repos\pz_1\pz_1\bin\Debug\netcoreapp3.1\pz_1.runtimeconfig.json
+C:\Users\rinaa\source\repos\pz_1\pz_1\bin\Debug\netcoreapp3.1\pz_1.runtimeconfig.dev.json
+C:\Users\rinaa\source\repos\pz_1\pz_1\bin\Debug\netcoreapp3.1\pz_1.dll
+C:\Users\rinaa\source\repos\pz_1\pz_1\bin\Debug\netcoreapp3.1\pz_1.pdb
+C:\Users\rinaa\source\repos\pz_1\pz_1\obj\Debug\netcoreapp3.1\pz_1.dll
+C:\Users\rinaa\source\repos\pz_1\pz_1\obj\Debug\netcoreapp3.1\pz_1.pdb
+C:\Users\rinaa\source\repos\pz_1\pz_1\obj\Debug\netcoreapp3.1\pz_1.genruntimeconfig.cache

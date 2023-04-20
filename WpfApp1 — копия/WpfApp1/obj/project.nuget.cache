@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Q6mg8DkMmTwt1duFz9/Tu+LneF/w/jR33ta/nxtXf57qIPcjoeq7C5tzSUuPwokG5YQLdJ2soDHS9oQqn84GA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\naumov.de1264\\source\\repos\\WpfApp1 — копия\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\naumov.de1264\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

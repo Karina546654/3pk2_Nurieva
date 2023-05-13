@@ -1,0 +1,5 @@
+C:\Users\rinaa\source\repos\pz_11\pz_11\obj\Debug\pz_11.csproj.AssemblyReference.cache
+C:\Users\rinaa\source\repos\pz_11\pz_11\obj\Debug\MainWindow.g.cs
+C:\Users\rinaa\source\repos\pz_11\pz_11\obj\Debug\App.g.cs
+C:\Users\rinaa\source\repos\pz_11\pz_11\obj\Debug\pz_11_MarkupCompile.cache
+C:\Users\rinaa\source\repos\pz_11\pz_11\obj\Debug\pz_11_MarkupCompile.lref

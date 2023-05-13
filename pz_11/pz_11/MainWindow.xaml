@@ -1,0 +1,24 @@
+﻿<Window x:Class="pz_11.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pz_11"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <TextBlock Text="NameBook:" TextAlignment="Left"/>
+        <TextBox x:Name="NameBookNB" MinWidth="300" FontSize="20"></TextBox>
+
+        <TextBlock Text="YearOfPublication:" TextAlignment="Left"/>
+        <TextBox x:Name="YearOfPubYP" MinWidth="300" FontSize="20"></TextBox>
+
+        <TextBlock Text="Author:" TextAlignment="Left"/>
+        <TextBox x:Name="AuthorTB" MinWidth="300" FontSize="20"></TextBox>
+
+        <Button Content="Save" MinWidth="300"
+                Command="{Binding AddBookCommand}" CommandParameter="{Binding ElementName=Main}"/>
+        <TextBlock Text="Books" FontSize="15"/>
+        <ListView x:Name="list1" MinHeight="100"/>
+    </StackPanel>
+</Window>

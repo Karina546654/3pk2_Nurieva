@@ -1,0 +1,21 @@
+﻿<Window x:Class="PZ_7_htlfrnjh.Program"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PZ_7_htlfrnjh"
+        mc:Ignorable="d"
+        Title="Program" Height="100" Width="300">
+    <Grid x:Name="program1" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="11*"></ColumnDefinition>
+            <ColumnDefinition Width="89*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="65*"></RowDefinition>
+            <RowDefinition Height="19*"/>
+        </Grid.RowDefinitions>
+        
+        <TextBlock Grid.Column="1" FontSize="12" TextWrapping="Wrap" Margin="0,21,0,0" Grid.RowSpan="2" >В программе есть пара косяков, пока не додумался, как исправить :(</TextBlock>
+    </Grid>
+</Window>

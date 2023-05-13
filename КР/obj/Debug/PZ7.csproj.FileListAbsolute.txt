@@ -1,0 +1,47 @@
+C:\Users\naumov.de1264\Desktop\PZ7\bin\Debug\PZ_7_htlfrnjh.exe.config
+C:\Users\naumov.de1264\Desktop\PZ7\bin\Debug\PZ_7_htlfrnjh.exe
+C:\Users\naumov.de1264\Desktop\PZ7\bin\Debug\PZ_7_htlfrnjh.pdb
+C:\Users\naumov.de1264\Desktop\PZ7\obj\Debug\PZ7.csproj.AssemblyReference.cache
+C:\Users\naumov.de1264\Desktop\PZ7\obj\Debug\PZ7.csproj.SuggestedBindingRedirects.cache
+C:\Users\naumov.de1264\Desktop\PZ7\obj\Debug\Autors.g.cs
+C:\Users\naumov.de1264\Desktop\PZ7\obj\Debug\CreateFileWindow.g.cs
+C:\Users\naumov.de1264\Desktop\PZ7\obj\Debug\MainWindow.g.cs
+C:\Users\naumov.de1264\Desktop\PZ7\obj\Debug\Program.g.cs
+C:\Users\naumov.de1264\Desktop\PZ7\obj\Debug\App.g.cs
+C:\Users\naumov.de1264\Desktop\PZ7\obj\Debug\PZ_7_htlfrnjh_MarkupCompile.cache
+C:\Users\naumov.de1264\Desktop\PZ7\obj\Debug\PZ_7_htlfrnjh_MarkupCompile.lref
+C:\Users\naumov.de1264\Desktop\PZ7\obj\Debug\Autors.baml
+C:\Users\naumov.de1264\Desktop\PZ7\obj\Debug\CreateFileWindow.baml
+C:\Users\naumov.de1264\Desktop\PZ7\obj\Debug\MainWindow.baml
+C:\Users\naumov.de1264\Desktop\PZ7\obj\Debug\Program.baml
+C:\Users\naumov.de1264\Desktop\PZ7\obj\Debug\PZ_7_htlfrnjh.g.resources
+C:\Users\naumov.de1264\Desktop\PZ7\obj\Debug\PZ_7_htlfrnjh.Properties.Resources.resources
+C:\Users\naumov.de1264\Desktop\PZ7\obj\Debug\PZ7.csproj.GenerateResource.cache
+C:\Users\naumov.de1264\Desktop\PZ7\obj\Debug\PZ7.csproj.CoreCompileInputs.cache
+C:\Users\naumov.de1264\Desktop\PZ7\obj\Debug\PZ_7_htlfrnjh.exe
+C:\Users\naumov.de1264\Desktop\PZ7\obj\Debug\PZ_7_htlfrnjh.pdb
+C:\Users\naumov.de1264\Desktop\PZ7\obj\Debug\Window1.g.cs
+C:\Users\naumov.de1264\Desktop\PZ7\obj\Debug\Window1.baml
+C:\Users\diman\OneDrive\Рабочий стол\Новая папка (8)\КР\bin\Debug\PZ_7_htlfrnjh.exe.config
+C:\Users\diman\OneDrive\Рабочий стол\Новая папка (8)\КР\bin\Debug\PZ_7_htlfrnjh.exe
+C:\Users\diman\OneDrive\Рабочий стол\Новая папка (8)\КР\bin\Debug\PZ_7_htlfrnjh.pdb
+C:\Users\diman\OneDrive\Рабочий стол\Новая папка (8)\КР\obj\Debug\PZ7.csproj.AssemblyReference.cache
+C:\Users\diman\OneDrive\Рабочий стол\Новая папка (8)\КР\obj\Debug\Autors.g.cs
+C:\Users\diman\OneDrive\Рабочий стол\Новая папка (8)\КР\obj\Debug\CreateFileWindow.g.cs
+C:\Users\diman\OneDrive\Рабочий стол\Новая папка (8)\КР\obj\Debug\MainWindow.g.cs
+C:\Users\diman\OneDrive\Рабочий стол\Новая папка (8)\КР\obj\Debug\Program.g.cs
+C:\Users\diman\OneDrive\Рабочий стол\Новая папка (8)\КР\obj\Debug\Window1.g.cs
+C:\Users\diman\OneDrive\Рабочий стол\Новая папка (8)\КР\obj\Debug\App.g.cs
+C:\Users\diman\OneDrive\Рабочий стол\Новая папка (8)\КР\obj\Debug\PZ_7_htlfrnjh_MarkupCompile.cache
+C:\Users\diman\OneDrive\Рабочий стол\Новая папка (8)\КР\obj\Debug\PZ_7_htlfrnjh_MarkupCompile.lref
+C:\Users\diman\OneDrive\Рабочий стол\Новая папка (8)\КР\obj\Debug\Autors.baml
+C:\Users\diman\OneDrive\Рабочий стол\Новая папка (8)\КР\obj\Debug\CreateFileWindow.baml
+C:\Users\diman\OneDrive\Рабочий стол\Новая папка (8)\КР\obj\Debug\MainWindow.baml
+C:\Users\diman\OneDrive\Рабочий стол\Новая папка (8)\КР\obj\Debug\Program.baml
+C:\Users\diman\OneDrive\Рабочий стол\Новая папка (8)\КР\obj\Debug\Window1.baml
+C:\Users\diman\OneDrive\Рабочий стол\Новая папка (8)\КР\obj\Debug\PZ_7_htlfrnjh.g.resources
+C:\Users\diman\OneDrive\Рабочий стол\Новая папка (8)\КР\obj\Debug\PZ_7_htlfrnjh.Properties.Resources.resources
+C:\Users\diman\OneDrive\Рабочий стол\Новая папка (8)\КР\obj\Debug\PZ7.csproj.GenerateResource.cache
+C:\Users\diman\OneDrive\Рабочий стол\Новая папка (8)\КР\obj\Debug\PZ7.csproj.CoreCompileInputs.cache
+C:\Users\diman\OneDrive\Рабочий стол\Новая папка (8)\КР\obj\Debug\PZ_7_htlfrnjh.exe
+C:\Users\diman\OneDrive\Рабочий стол\Новая папка (8)\КР\obj\Debug\PZ_7_htlfrnjh.pdb
